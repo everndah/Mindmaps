@@ -2,14 +2,10 @@
 
 - Bullet Points
   - Need to be intermediate to get a job.
-
-Devote about one to two hours daily to learn Python.
-
-Do not learn statistics theoretically take example and work them out.
-
-Be good in EDA and feature engineering.
-
-Data Science is a continuous learning process.
+  - Devote about one to two hours daily to learn Python.
+  - Do not learn statistics theoretically take example and work them out.
+  - Be good in EDA and feature engineering.
+  - Data Science is a continuous learning process.
 
 #Root Node
 
