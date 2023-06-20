@@ -1,10 +1,13 @@
 #Parent Node
-Exploratory Data Analysis
+
+- Exploratory Data Analysis
+
 - [Structured Data](https://medium.com/@yuneeh/unstructured-data-vs-structured-data-explained-with-real-life-examples-a62dbadbb49d)
 
 #Right Side Children Nodes
 
-    - [Data Types](https://www.analyticsvidhya.com/blog/2021/06/complete-guide-to-data-types-in-statistics-for-data-science/)
+    - [Data Types](https://www.analyticsvidhya.com/blog/2021/06 complete-guide-to-data-types-in-statistics-for-data-science/)
+    
         - (Quantitative)Numerical DataType
 .
 Eg. Continuous , Discrete
